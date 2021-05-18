@@ -6,5 +6,5 @@ Rubric:
 * API #1 - Timezone API
 * API #2 - Weather API
 
-
-[sagana-game.infinityfreeapp:sagana-game.infinityfreeapp.com.com]:sagana-game.infinityfreeapp.com
+Link:
+sagana-game.infinityfreeapp.com
