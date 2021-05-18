@@ -7,4 +7,4 @@ Rubric:
 * API #2 - Weather API
 
 
-*sagana-game.infinityfreeapp.com
+* sagana-game.infinityfreeapp.com
