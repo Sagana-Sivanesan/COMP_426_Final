@@ -1,4 +1,4 @@
-# COMP_426_Final
+# DinoJump
 
 Rubric: 
 * Dino Jump - Game
